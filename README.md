@@ -29,7 +29,7 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 # OUTPUT:
 
-<img width="651" height="465" alt="image" src="https://github.com/user-attachments/assets/0b1eed6b-6299-4693-b6f1-784efa4f06dc" />
+![alt text](image.png)
 
 # Result:
 
